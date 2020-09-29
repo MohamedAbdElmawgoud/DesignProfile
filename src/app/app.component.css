@@ -1,0 +1,13 @@
+
+body, html
+{
+    background-image: url("../assets/pyramid.jpg")  ;
+    background-size: cover;
+    height: 790px;
+    position: center;
+    max-height: 900px;
+    
+}
+div{
+    background: transparent;
+}
